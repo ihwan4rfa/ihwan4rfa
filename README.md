@@ -5,5 +5,5 @@
 <div align="left">
     <img src="https://skillicons.dev/icons?i=javascript,react,html,css,vscode,figma,tailwind,git,github,nodejs,postman" />
 </div></br>
-<a href="#"><img height=180 src="https://github-readme-stats.vercel.app/api?username=ihwan4rfa&show_icons=true&theme=react&rank_icon=github&hide_border=true"/></a>
-<a href="#"><img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihwan4rfa&layout=compact&theme=react&count_private=true&hide_border=true"/></a>
+<a href="#"><img height=150 src="https://github-readme-stats.vercel.app/api?username=ihwan4rfa&show_icons=true&theme=react&rank_icon=github&hide_border=true"/></a>
+<a href="#"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihwan4rfa&layout=compact&theme=react&count_private=true&hide_border=true"/></a>
