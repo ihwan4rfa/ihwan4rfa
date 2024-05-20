@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ihwan Arifandi</h1>
-<h3 align="center">A passionate Front End Developer from Indonesia</h3>
+<h2 align="center">🌱 A passionate Front End Developer from Indonesia</h2>
 
-- 🌱 I’m currently learning **JavaScript, HTML, CSS, React, Tailwind, Git, and Nodejs**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h4 align="center">Languages and Tools:</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat&logo=javascript&logoColor=F7DF1E&labelColor=black" alt="javascript"/>
+  <img src="https://img.shields.io/badge/HTML-F7931A?style=flat&logo=html5&logoColor=F7931A&labelColor=black" alt="html5"/>  
+  <img src="https://img.shields.io/badge/CSS-00B899?style=flat&logo=css3&logoColor=00B899&labelColor=black" alt="css3"/>
+  <img src="https://img.shields.io/badge/REACT-61DBFB?style=flat&logo=react&logoColor=61DBFB&labelColor=black" alt="react"/>
+  <img src="https://img.shields.io/badge/FIGMA-A5CD39?style=flat&logo=figma&logoColor=A5CD39&labelColor=black" alt="figma"/>
+  <img src="https://img.shields.io/badge/TAILWIND-06B6D4?style=flat&logo=tailwindcss&logoColor=06B6D4&labelColor=black" alt="figma"/>
+  <img src="https://img.shields.io/badge/NODE.JS-5FA04E?style=flat&logo=nodedotjs&logoColor=5FA04E&labelColor=black" alt="nodejs"/>
+  <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=flat&logo=postman&logoColor=FF6C37&labelColor=black" alt="postman"/>
+  <img src="https://img.shields.io/badge/GIT-F05032?style=flat&logo=git&logoColor=F05032&labelColor=black" alt="git"/>
+  <img src="https://img.shields.io/badge/GITHUB-9B9B9B?style=flat&logo=github&logoColor=9B9B9B&labelColor=black" alt="github"/>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
