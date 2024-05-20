@@ -4,9 +4,9 @@
 <p align="left">I'm a Frontend Developer and Designer from Indonesia, with a Bachelor's degree in Informatics from Muhammadiyah University of Surakarta. I work on random projects in my free time and just enjoy it.</p>
 <h5>🤝 Connect with me</h5>
 <div align="left">    
-    <a target="_blank" href="linkedin.com/in/ihwanarfa"><img src="https://img.shields.io/badge/Ihwanarfa-0A66C2?style=flat&logo=linkedin&logoColor=0A66C2&labelColor=black" alt="linkedin"/></a>
-    <a target="_blank" href="instagram.com/ihwanarfa"><img src="https://img.shields.io/badge/Ihwanarfa-E4405F?style=flat&logo=instagram&logoColor=E4405F&labelColor=black" alt="instagram"/></a>
-    <a target="_blank" href="x.com/ihwanarfa"><img src="https://img.shields.io/badge/Ihwanarfa-606060?style=flat&logo=x&logoColor=606060&labelColor=black" alt="x"/></a>
+    <a href="https://www.linkedin.com/in/ihwanarfa" target="_blank"><img src="https://img.shields.io/badge/Ihwanarfa-0A66C2?style=flat&logo=linkedin&logoColor=0A66C2&labelColor=black" alt="linkedin"/></a>
+    <a href="https://www.instagram.com/ihwanarfa" target="_blank"><img src="https://img.shields.io/badge/Ihwanarfa-E4405F?style=flat&logo=instagram&logoColor=E4405F&labelColor=black" alt="instagram"/></a>
+    <a href="https://www.x.com/ihwanarfa" target="_blank"><img src="https://img.shields.io/badge/Ihwanarfa-606060?style=flat&logo=x&logoColor=606060&labelColor=black" alt="x"/></a>
 </div>
 <h5>🛠️ Technologies & Tools</h5>
 <div align="left">
