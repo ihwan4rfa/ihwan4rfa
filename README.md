@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=25&duration=3000&pause=500&color=61DAFB&left=true&vCenter=true&random=false&width=435&height=35&lines=Hey+There!+👋;+I'm+Ihwan+Arifandi;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&duration=3000&pause=500&color=61DAFB&left=true&vCenter=true&random=false&width=435&height=35&lines=Hey+There!+👋;+I'm+Ihwan+Arifandi;" />
 <p align="left">I'm a Frontend Developer and Designer from Indonesia, with a Bachelor's degree in Informatics from Muhammadiyah University of Surakarta. I work on random projects in my free time and just enjoy it.</p>
 <h5>🤝 Connect with me</h5>
 <div align="left">    
