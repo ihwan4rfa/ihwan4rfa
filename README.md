@@ -13,6 +13,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height=20.4/>
 <h5>📊 Statistics</h5>
 <div align="left">
-    <a href="#"><img height=150 src="https://github-readme-stats.vercel.app/api?username=ihwan4rfa&show_icons=true&theme=react&rank_icon=github&hide_border=true"/></a>
-    <a href="#"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihwan4rfa&layout=compact&theme=react&count_private=true&hide_border=true"/></a>
+    <a href="#"><img height=150 src="https://github-readme-stats.vercel.app/api?username=ihwan4rfa&show_icons=true&theme=blueberry&rank_icon=github&hide_border=true"/></a>
+    <a href="#"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihwan4rfa&layout=compact&theme=blueberry&count_private=true&hide_border=true"/></a>
 </div>
