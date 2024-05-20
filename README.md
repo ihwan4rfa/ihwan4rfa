@@ -1,4 +1,3 @@
-<img align="right" alt="Coding" height=175 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <h1 align="left">
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=25&duration=3000&pause=500&color=61DAFB&left=true&vCenter=true&random=false&width=435&height=35&lines=Hey+There!+👋;+I'm+Ihwan+Arifandi;" />
 </h1>
@@ -13,9 +12,10 @@
 <div align="left">
     <img src="https://skillicons.dev/icons?i=javascript,react,html,css,vscode,figma,tailwind,git,github,nodejs,postman" />
 </div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height=21/>
 <h5>📊 Statistics</h5>
 <div align="left">
     <a href="#"><img height=150 src="https://github-readme-stats.vercel.app/api?username=ihwan4rfa&show_icons=true&theme=react&rank_icon=github&hide_border=true"/></a>
     <a href="#"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihwan4rfa&layout=compact&theme=react&count_private=true&hide_border=true"/></a>
-    <br/>
+    <img src="https://user-images.githubusercontent.com/74038190/216654136-2b97900b-59ee-45c5-87bb-0c359e31dd2f.gif" height=150/>
 </div>
