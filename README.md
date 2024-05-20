@@ -17,5 +17,5 @@
 <div align="left">
     <a href="#"><img height=150 src="https://github-readme-stats.vercel.app/api?username=ihwan4rfa&show_icons=true&theme=react&rank_icon=github&hide_border=true"/></a>
     <a href="#"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihwan4rfa&layout=compact&theme=react&count_private=true&hide_border=true"/></a>
-    <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" height=150/>
+    <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" height=120/>
 </div>
