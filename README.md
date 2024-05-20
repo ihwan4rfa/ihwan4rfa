@@ -2,10 +2,19 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=25&duration=3000&pause=500&color=61DAFB&left=true&vCenter=true&random=false&width=435&height=35&lines=Hey+There!+👋;+I'm+Ihwan+Arifandi;" />
 </h1>
 <p align="left">I'm a Frontend Developer and Designer from Indonesia, with a Bachelor's degree in Informatics from Muhammadiyah University of Surakarta. I work on random projects in my free time and just enjoy it.</p>
+<h5>🤝 Connect with me</h5>
+<div align="left">    
+    <a target="_blank" href="linkedin.com/in/ihwanarfa"><img src="https://img.shields.io/badge/Ihwanarfa-0A66C2?style=flat&logo=linkedin&logoColor=0A66C2&labelColor=black" alt="figma"/></a>
+    <a target="_blank" href="instagram.com/ihwanarfa"><img src="https://img.shields.io/badge/Ihwanarfa-E4405F?style=flat&logo=instagram&logoColor=E4405F&labelColor=black" alt="figma"/></a>
+    <a target="_blank" href="linkedin.com/in/ihwanarfa"><img src="https://img.shields.io/badge/Ihwanarfa-606060?style=flat&logo=x&logoColor=606060&labelColor=black" alt="figma"/></a>
+</div>
 <h5>🛠️ Technologies & Tools</h5>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=javascript,react,html,css,vscode,figma,tailwind,git,github,nodejs,postman" />
 </div>
 <h5>📊 Statistics</h5>
-<a href="#"><img height=150 src="https://github-readme-stats.vercel.app/api?username=ihwan4rfa&show_icons=true&theme=react&rank_icon=github&hide_border=true"/></a>
-<a href="#"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihwan4rfa&layout=compact&theme=react&count_private=true&hide_border=true"/></a>
+<div align="left">
+    <a href="#"><img height=150 src="https://github-readme-stats.vercel.app/api?username=ihwan4rfa&show_icons=true&theme=react&rank_icon=github&hide_border=true"/></a>
+    <a href="#"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihwan4rfa&layout=compact&theme=react&count_private=true&hide_border=true"/></a>
+</div>
+
