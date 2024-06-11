@@ -10,7 +10,7 @@
 <div align="left">
     <img src="https://skillicons.dev/icons?i=figma,javascript,html,css,tailwind,react,redux,nextjs,nodejs,postman,git,github,vscode" />
 </div>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height=24/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height=24.5/>
 <h4>• Statistics</h4>
 <div align="left">
     <a href="#"><img height=140 src="https://github-readme-stats.vercel.app/api?username=ihwan4rfa&show_icons=true&theme=swift&rank_icon=github&hide_border=true"/></a>
