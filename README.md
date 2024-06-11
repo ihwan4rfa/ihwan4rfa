@@ -8,7 +8,7 @@
 </div>
 <h4>• Technologies & Tools</h4>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=javascript,react,html,css,figma,tailwind,redux,nextjs,nodejs,postman,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=figma,javascript,html,css,tailwind,react,redux,nextjs,nodejs,postman,git,github,vscode" />
 </div>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height=24/>
 <h4>• Statistics</h4>
