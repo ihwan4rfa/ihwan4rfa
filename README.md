@@ -13,7 +13,7 @@ Passionate Frontend Developer and Designer from Indonesia. Specialize in creatin
 
 | <img src="https://listemoji.com/img/emoji/using/large-red-circle-1f534-microsoft.png" width="9" height="9"/> Commit History |
 |---|
-| <img src="https://github-readme-activity-graph.vercel.app/graph?username=ihwan4rfa&theme=xcode&hide_border=true&area=true&point=F8302E&bg_color=false&hide_title=true&line=ffffff&height=300&days=30&color=ffffff" /> |
+| <img src="https://github-readme-activity-graph.vercel.app/graph?username=ihwan4rfa&theme=xcode&hide_border=true&area=true&point=F8302E&bg_color=F7F7F7&hide_title=true&line=000000&height=300&days=30&color=000000" /> |
 
 <h4 align="left"><img src="https://listemoji.com/img/emoji/using/large-red-circle-1f534-microsoft.png" width="9" height="9"/> Let's Connect</h4>
 
