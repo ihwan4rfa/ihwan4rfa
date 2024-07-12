@@ -16,7 +16,7 @@ Passionate Frontend Developer and Designer from Indonesia. I specialize in creat
 
 | <img src="https://listemoji.com/img/emoji/using/large-red-circle-1f534-microsoft.png" width="9" height="9"/> My GitHub Stats | <img src="https://listemoji.com/img/emoji/using/large-red-circle-1f534-microsoft.png" width="9" height="9"/> Most Used Languages |
 |---|---|
-| <img height=180 src="https://github-readme-stats.vercel.app/api?username=ihwan4rfa&show_icons=true&theme=swift&rank_icon=github&hide_border=true&hide_title=true"/> | <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihwan4rfa&layout=compact&theme=swift&count_private=true&hide_border=true&hide_title=true"/> | 
+| <img width="500" src="https://github-readme-stats.vercel.app/api?username=ihwan4rfa&show_icons=true&theme=swift&rank_icon=github&hide_border=true&hide_title=true"/> | <img width="485" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihwan4rfa&layout=compact&theme=swift&count_private=true&hide_border=true&hide_title=true"/> | 
 
 | <img src="https://listemoji.com/img/emoji/using/large-red-circle-1f534-microsoft.png" width="9" height="9"/> My Commit History |
 |---|
