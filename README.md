@@ -13,8 +13,10 @@ Passionate Frontend Developer and Designer from Indonesia. I specialize in creat
 
 [![SkillIcons](https://skillicons.dev/icons?i=figma,html,css,tailwind,js,vite,react,nextjs,redux,git,github,nodejs,postman,vscode,vercel)](https://skillicons.dev)
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="22.3" width="838"/>
-<div align="left">
-    <a href="#"><img height=140 src="https://github-readme-stats.vercel.app/api?username=ihwan4rfa&show_icons=true&theme=swift&rank_icon=github&hide_border=true"/></a>
-    <a href="#"><img height=140 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihwan4rfa&layout=compact&theme=swift&count_private=true&hide_border=true"/></a>
-</div>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ihwan4rfa&theme=xcode&hide_border=true&area=true&point=F8302E&bg_color=false&hide_title=true&line=ffffff&height=300&days=30&color=A7A8AB" />
+
+| <a href="#"><img height=140 src="https://github-readme-stats.vercel.app/api?username=ihwan4rfa&show_icons=true&theme=swift&rank_icon=github&hide_border=true"/></a> | <a href="#"><img height=140 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihwan4rfa&layout=compact&theme=swift&count_private=true&hide_border=true"/></a> | 
+|---|---|
+
+
+| <img src="https://github-readme-activity-graph.vercel.app/graph?username=ihwan4rfa&theme=xcode&hide_border=true&area=true&point=F8302E&bg_color=false&hide_title=true&line=ffffff&height=300&days=30&color=A7A8AB" /> |
+|---|
