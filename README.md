@@ -16,6 +16,4 @@ Passionate Frontend Developer and Designer from Indonesia. I specialize in creat
     <a href="#"><img height=140 src="https://github-readme-stats.vercel.app/api?username=ihwan4rfa&show_icons=true&theme=swift&rank_icon=github&hide_border=true"/></a>
     <a href="#"><img height=140 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihwan4rfa&layout=compact&theme=swift&count_private=true&hide_border=true"/></a>
 </div>
-<div align="left" >
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ihwan4rfa&theme=xcode&hide_border=true&area=true&point=F8302E&bg_color=false&hide_title=true&line=ffffff&height=300&days=25&color=A7A8AB" />
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ihwan4rfa&theme=xcode&hide_border=true&area=true&point=F8302E&bg_color=false&hide_title=true&line=ffffff&height=300&days=30&color=A7A8AB" />
