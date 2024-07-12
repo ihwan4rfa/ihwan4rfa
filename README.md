@@ -5,9 +5,10 @@ Passionate Frontend Developer and Designer from Indonesia. I specialize in creat
 
 [![Linkedin Badge](https://img.shields.io/badge/-ihwanarfa-0e76a8?style=flat&labelColor=black&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ihwanarfa/) 
 [![Instagram Badge](https://img.shields.io/badge/-ihwanarfa-F8302E?style=flat&labelColor=black&logo=instagram&logoColor=white)](https://www.instagram.com/ihwanarfa/) 
-[![Tiktok Badge](https://img.shields.io/badge/-ihwanarfa-764ABC?style=flat&labelColor=black&logo=tiktok&logoColor=white&link=https://www.twitter.com/ihwanarfa)](https://www.tiktok.com/@ihwanarfa) 
-[![X Badge](https://img.shields.io/badge/-ihwanarfa-525252?style=flat&labelColor=black&logo=X&logoColor=white&link=https://www.twitter.com/ihwanarfa)](https://twitter.com/ihwanarfa) 
-[![Whatsapp Badge](https://img.shields.io/badge/-ihwanarfa-0ACF83?style=flat&labelColor=black&logo=whatsapp&logoColor=white&link=https://www.twitter.com/ihwanarfa)](https://wa.me/6285875029000) 
+[![Tiktok Badge](https://img.shields.io/badge/-ihwanarfa-764ABC?style=flat&labelColor=black&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ihwanarfa) 
+[![X Badge](https://img.shields.io/badge/-ihwanarfa-525252?style=flat&labelColor=black&logo=X&logoColor=white)](https://twitter.com/ihwanarfa) 
+[![Whatsapp Badge](https://img.shields.io/badge/-ihwanarfa-0ACF83?style=flat&labelColor=black&logo=whatsapp&logoColor=white)](https://wa.me/6285875029000) 
+[![Facebook Badge](https://img.shields.io/badge/-ihwanarfa-0e76a8?style=flat&labelColor=black&logo=facebook&logoColor=white)](https://facebook.com/ihwan.arifandi.5) 
 
 <h4 align="left"><img src="https://listemoji.com/img/emoji/using/large-red-circle-1f534-microsoft.png" width="9" height="9"/> Technologies & Tools</h4>
 
@@ -16,8 +17,8 @@ Passionate Frontend Developer and Designer from Indonesia. I specialize in creat
 
 | <img src="https://listemoji.com/img/emoji/using/large-red-circle-1f534-microsoft.png" width="9" height="9"/> My GitHub Stats | <img src="https://listemoji.com/img/emoji/using/large-red-circle-1f534-microsoft.png" width="9" height="9"/> Most Used Languages |
 |---|---|
-| <img height="100%" src="https://github-readme-stats.vercel.app/api?username=ihwan4rfa&show_icons=true&theme=swift&rank_icon=github&hide_border=true&hide_title=true"/> | <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihwan4rfa&layout=compact&theme=swift&count_private=true&hide_border=true&hide_title=true"/> |
+| <img height="150" src="https://github-readme-stats.vercel.app/api?username=ihwan4rfa&show_icons=true&theme=swift&rank_icon=github&hide_border=true&hide_title=true"/> | <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihwan4rfa&layout=compact&theme=swift&count_private=true&hide_border=true&hide_title=true"/> |
 
 | <img src="https://listemoji.com/img/emoji/using/large-red-circle-1f534-microsoft.png" width="9" height="9"/> My Commit History |
 |---|
-| <img height="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ihwan4rfa&theme=xcode&hide_border=true&area=true&point=F8302E&bg_color=false&hide_title=true&line=ffffff&height=300&days=30&color=A7A8AB" /> |
+| <img src="https://github-readme-activity-graph.vercel.app/graph?username=ihwan4rfa&theme=xcode&hide_border=true&area=true&point=F8302E&bg_color=false&hide_title=true&line=ffffff&height=300&days=30&color=A7A8AB" /> |
