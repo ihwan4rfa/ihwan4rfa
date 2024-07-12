@@ -1,5 +1,11 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&&weight=700&color=DB1B21&size=35&center=false&width=500&height=70&duration=3000&lines=Hello!+👋;+I'm+Ihwan;" />
-Frontend Developer and Designer from Indonesia. I work on random projects and just enjoy it.
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&&weight=700&color=DB1B21&size=35&width=500&height=70&duration=2500&lines=Hello!+👋;+I'm+Ihwan;" />
+Passionate Frontend Developer and Designer from Indonesia. I specialize in creating beautiful, user friendly web interfaces and experiences.
+
+<h4 align="left">• Let's Connect</h4>
+
+[![Twitter Badge](https://img.shields.io/badge/-ihwanarfa-525252?style=flat&labelColor=black&logo=X&logoColor=white&link=https://www.twitter.com/ihwanarfa)](https://twitter.com/MaksymRudnyi) 
+[![Linkedin Badge](https://img.shields.io/badge/-ihwanarfa-0e76a8?style=flat&labelColor=black&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ihwanarfa/) 
+[![Instagram Badge](https://img.shields.io/badge/-ihwanarfa-DB1B21?style=flat&labelColor=black&logo=instagram&logoColor=white)](https://www.instagram.com/ihwanarfa/) 
 
 <h4 align="left">• Technologies & Tools</h4>
 
