@@ -1,5 +1,5 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&&weight=700&color=DB1B21&size=35&width=500&height=70&duration=2500&lines=Hello!+👋;+I'm+Ihwan;" />
-Passionate Frontend Developer and Designer from Indonesia. I specialize in creating beautiful, user friendly web interfaces and experiences.
+Passionate Frontend Developer and Designer from Indonesia. I specialize in creating beautiful, user friendly web interfaces and experiences. I love working on diverse projects that challenge my skills and help me grow as a developer and designer. Check out my repositories to see some of the exciting projects I've worked on.
 
 <h4 align="left">• Let's Connect</h4>
 
