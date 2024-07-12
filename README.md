@@ -7,6 +7,7 @@ Passionate Frontend Developer and Designer from Indonesia. I specialize in creat
 [![Instagram Badge](https://img.shields.io/badge/-ihwanarfa-F8302E?style=flat&labelColor=black&logo=instagram&logoColor=white)](https://www.instagram.com/ihwanarfa/) 
 [![Tiktok Badge](https://img.shields.io/badge/-ihwanarfa-764ABC?style=flat&labelColor=black&logo=tiktok&logoColor=white&link=https://www.twitter.com/ihwanarfa)](https://www.tiktok.com/@ihwanarfa) 
 [![X Badge](https://img.shields.io/badge/-ihwanarfa-525252?style=flat&labelColor=black&logo=X&logoColor=white&link=https://www.twitter.com/ihwanarfa)](https://twitter.com/ihwanarfa) 
+[![Whatsapp Badge](https://img.shields.io/badge/-ihwanarfa-0ACF83?style=flat&labelColor=black&logo=whatsapp&logoColor=white&link=https://www.twitter.com/ihwanarfa)](https://wa.me/6285875029000) 
 
 <h4 align="left"><img src="https://listemoji.com/img/emoji/using/large-red-circle-1f534-microsoft.png" width="9" height="9"/> Technologies & Tools</h4>
 
