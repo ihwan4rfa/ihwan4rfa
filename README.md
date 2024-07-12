@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=35&duration=1500&pause=1500&color=DB1B21&vCenter=true&random=false&width=200&height=30&lines=Hello!;I'm+Ihwan)](https://git.io/typing-svg) <br>
+<img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="27" /> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=25&duration=2500&pause=&color=DB1B21&vCenter=true&random=false&width=435&height=25&lines=Hello!;I'm+Ihwan)](https://git.io/typing-svg) <br>
 Passionate Frontend Developer and Designer from Indonesia. I specialize in creating beautiful, user friendly web interfaces and experiences. I love working on diverse projects that challenge my skills and help me grow. Check out my repositories to see some of the exciting projects I've worked on.
 
 <h4 align="left">• Let's Connect</h4>
