@@ -3,7 +3,7 @@ Passionate Frontend Developer and Designer from Indonesia. I specialize in creat
 
 <h4 align="left">• Let's Connect</h4>
 
-[![Twitter Badge](https://img.shields.io/badge/-ihwanarfa-525252?style=flat&labelColor=black&logo=X&logoColor=white&link=https://www.twitter.com/ihwanarfa)](https://twitter.com/MaksymRudnyi) 
+[![Twitter Badge](https://img.shields.io/badge/-ihwanarfa-525252?style=flat&labelColor=black&logo=X&logoColor=white&link=https://www.twitter.com/ihwanarfa)](https://twitter.com/ihwanarfa) 
 [![Linkedin Badge](https://img.shields.io/badge/-ihwanarfa-0e76a8?style=flat&labelColor=black&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ihwanarfa/) 
 [![Instagram Badge](https://img.shields.io/badge/-ihwanarfa-DB1B21?style=flat&labelColor=black&logo=instagram&logoColor=white)](https://www.instagram.com/ihwanarfa/) 
 
