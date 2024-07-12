@@ -1,11 +1,10 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&&weight=700&color=DB1B21&size=35&center=false&width=500&height=50&duration=3000&lines=Hello!+👋;+I'm+Ihwan;" /></br>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&&weight=700&color=DB1B21&size=35&center=false&width=500&height=70&duration=3000&lines=Hello!+👋;+I'm+Ihwan;" />
 Frontend Developer and Designer from Indonesia. I work on random projects and just enjoy it.
-</br>
+
 <h4 align="left">• Technologies & Tools</h4>
 
 [![SkillIcons](https://skillicons.dev/icons?i=figma,html,css,tailwind,js,react,nextjs,redux,git,postman,nodejs,vscode)](https://skillicons.dev)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="670"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="22.3"/>
 
 <h4 align="left">• Statistics</h4>
 <div align="left">
