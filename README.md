@@ -17,9 +17,6 @@ Passionate Frontend Developer and Designer from Indonesia. Specialize in creatin
 
 <h4 align="left"><img src="https://listemoji.com/img/emoji/using/large-red-circle-1f534-microsoft.png" width="9" height="9"/> Let's Connect</h4>
 
-[![Linkedin Badge](https://img.shields.io/badge/-ihwanarfa-0e76a8?style=flat&labelColor=0D1117&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ihwanarfa/) 
 [![Instagram Badge](https://img.shields.io/badge/-ihwanarfa-F8302E?style=flat&labelColor=0D1117&logo=instagram&logoColor=white)](https://www.instagram.com/ihwanarfa/) 
 [![Tiktok Badge](https://img.shields.io/badge/-ihwanarfa-764ABC?style=flat&labelColor=0D1117&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ihwanarfa) 
-[![X Badge](https://img.shields.io/badge/-ihwanarfa-525252?style=flat&labelColor=0D1117&logo=X&logoColor=white)](https://twitter.com/ihwanarfa) 
 [![Whatsapp Badge](https://img.shields.io/badge/-ihwanarfa-6DA252?style=flat&labelColor=0D1117&logo=whatsapp&logoColor=white)](https://wa.me/6285875029000) 
-[![Facebook Badge](https://img.shields.io/badge/-ihwanarfa-0e76a8?style=flat&labelColor=0D1117&logo=facebook&logoColor=white)](https://facebook.com/ihwan.arifandi.5) 
