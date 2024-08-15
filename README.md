@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="27" /> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=25&duration=2500&pause=1000&color=F8302E&vCenter=true&random=false&width=200&height=25&lines=Hello!;I'm+Ihwan)](https://git.io/typing-svg) <br>
-Passionate Frontend Developer and Designer from Indonesia. Specialize in creating beautiful, user friendly web interfaces and experiences. Check out my repositories to see some of the exciting projects I've worked on.
+Passionate Front-End Developer and Designer from Indonesia. Specialize in creating beautiful, user friendly web interfaces and experiences. Check out my repositories to see some of the exciting projects I've worked on.
 
 
 <h4 align="left"><img src="https://listemoji.com/img/emoji/using/large-red-circle-1f534-microsoft.png" width="9" height="9"/> Technologies & Tools</h4>
