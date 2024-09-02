@@ -11,9 +11,9 @@ Passionate Front-End Developer and Designer from Indonesia. Specialize in creati
 |---|---|
 | <img height="150" src="https://github-readme-stats.vercel.app/api?username=ihwan4rfa&show_icons=true&theme=monokai&rank_icon=github&icon_color=F1E05A&hide_border=true&hide_title=true&ring_color=F8302E&bg_color=0D1117"/> | <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihwan4rfa&layout=compact&theme=monokai&count_private=true&hide_border=true&hide_title=true&bg_color=0D1117"/> |
 
-| <img src="https://listemoji.com/img/emoji/using/large-red-circle-1f534-microsoft.png" width="9" height="9"/> Commit History |
+<!--- | <img src="https://listemoji.com/img/emoji/using/large-red-circle-1f534-microsoft.png" width="9" height="9"/> Commit History |
 |---|
-| <img src="https://github-readme-activity-graph.vercel.app/graph?username=ihwan4rfa&theme=xcode&hide_border=true&area=true&area_color=F1E05A&point=F8302E&bg_color=0D1117&hide_title=true&line=ffffff&height=300&days=30&color=ffffff" /> |
+| <img src="https://github-readme-activity-graph.vercel.app/graph?username=ihwan4rfa&theme=xcode&hide_border=true&area=true&area_color=F1E05A&point=F8302E&bg_color=0D1117&hide_title=true&line=ffffff&height=300&days=30&color=ffffff" /> | --->
 
 <h4 align="left"><img src="https://listemoji.com/img/emoji/using/large-red-circle-1f534-microsoft.png" width="9" height="9"/> Let's Connect</h4>
 
