@@ -4,7 +4,7 @@ Passionate Front-End Developer and Designer from Indonesia. Specialize in creati
 
 <h4 align="left"><img src="https://listemoji.com/img/emoji/using/large-red-circle-1f534-microsoft.png" width="9" height="9"/> My Tech Toolkit</h4>
 
-[![SkillIcons](https://skillicons.dev/icons?i=figma,html,css,tailwind,js,vite,astro,react,nextjs,redux,git,github,nodejs,postman,vercel)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=figma,tailwind,js,ts,vite,astro,react,nextjs,redux,postgresql,git,github,nodejs,postman,vercel)](https://skillicons.dev)
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="22.3" width="838"/>
 
 | <img src="https://listemoji.com/img/emoji/using/large-red-circle-1f534-microsoft.png" width="9" height="9"/> GitHub Stats | <img src="https://listemoji.com/img/emoji/using/large-red-circle-1f534-microsoft.png" width="9" height="9"/> Most Used Languages |
