@@ -15,9 +15,9 @@ Passionate Front-End Developer and Designer from Indonesia. Specialize in creati
 |---|
 | <img src="https://github-readme-activity-graph.vercel.app/graph?username=ihwan4rfa&theme=xcode&hide_border=true&area=true&area_color=F1E05A&point=F8302E&bg_color=0D1117&hide_title=true&line=ffffff&height=300&days=30&color=ffffff" /> | --->
 
+<!--- |
 <h4 align="left"><img src="https://listemoji.com/img/emoji/using/large-red-circle-1f534-microsoft.png" width="9" height="9"/> Let's Connect</h4>
 
-<!--- |
 [![Instagram Badge](https://img.shields.io/badge/-ihwanarfa-F8302E?style=flat&labelColor=0D1117&logo=instagram&logoColor=white)](https://www.instagram.com/ihwanarfa/) 
 [![Tiktok Badge](https://img.shields.io/badge/-ihwanarfa-764ABC?style=flat&labelColor=0D1117&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ihwanarfa) 
 [![Whatsapp Badge](https://img.shields.io/badge/-ihwanarfa-6DA252?style=flat&labelColor=0D1117&logo=whatsapp&logoColor=white)](https://wa.me/6285875029000) 
